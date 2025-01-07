@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Airy59
-- 👀 I’m interested in models, model transformation, ontologies, and making all that work in practice (functional demos)
+- 👀 I’m interested in models, model transformation, ontologies, and making all that work in practice (functional demos), possibly using logic programming
 - 🌱 I’m always trying to learn too many things, and sometimes successful at that
 - 💞️ I’m looking to collaborate on the above subjects
 - 📫 amagnien (at) hotmail.fr
